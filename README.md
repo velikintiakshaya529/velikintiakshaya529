@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://mypersonal-portfolio-play.lovable.app](https://mypersonal-portfolio-play.lovable.app)
+- 👨‍💻 All of my projects are available at [https://github.com/velikintiakshaya529/](https://github.com/velikintiakshaya529/)
 
 - 💬 Ask me about **Data Analytics**
 
